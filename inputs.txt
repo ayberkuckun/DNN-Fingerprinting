@@ -1,0 +1,1 @@
+"imagenet32" "ResNet20v1" 4 6 --use_saved
